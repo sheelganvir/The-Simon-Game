@@ -1,12 +1,7 @@
 # The-Simon-Game 🕹️
  The "The-Simon-Game" repository hosts an engaging and interactive digital adaptation of the classic memory game, Simon. This repository showcases a modern take on the iconic Simon game, designed to challenge and enhance your memory and concentration skills. 
 
-## Demo 🎮
-To see the game in action, you can check out the live demo [
-here
-](
-https://your-demo-link.com](https://sheelganvir.github.io/The-Simon-Game/
-). 🚀
+## Preview 🎮
 
 https://github.com/sheelganvir/The-Simon-Game/assets/128175450/46740422-54a5-49e2-9179-79c21b48325f
 
