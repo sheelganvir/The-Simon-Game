@@ -5,7 +5,7 @@
 To see the game in action, you can check out the live demo [
 here
 ](
-https://your-demo-link.com
+[https://your-demo-link.com](https://sheelganvir.github.io/The-Simon-Game/)
 ). 🚀
 
 https://github.com/sheelganvir/The-Simon-Game/assets/128175450/46740422-54a5-49e2-9179-79c21b48325f
