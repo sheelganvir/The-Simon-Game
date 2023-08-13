@@ -30,3 +30,5 @@ Your task is to replicate the sequence by clicking the buttons in the same order
 Each time you successfully complete a sequence, the game adds one more step to the pattern, making it progressively harder.
 Be careful! If you click the buttons in the wrong order, the game will indicate an incorrect move and the sequence will repeat.
 Keep playing to test and improve your memory skills, and aim for the highest score!
+
+Revisit the beloved Simon game with a modern twist – explore "The-Simon-Game" repository today and challenge your memory like never before!
