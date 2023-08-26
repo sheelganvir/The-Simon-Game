@@ -1,5 +1,5 @@
 # The-Simon-Game 🕹️
- The "The-Simon-Game" repository hosts an engaging and interactive digital adaptation of the classic memory game, Simon. This repository showcases a modern take on the iconic Simon game, designed to challenge and enhance your memory and concentration skills. 
+The "The-Simon-Game" repository is home to an immersive and interactive digital rendition of the classic memory game, Simon. This GitHub repository presents a contemporary interpretation of the well-known Simon game, skillfully crafted using HTML, CSS, and jQuery. This fusion of web technologies results in a captivating experience that not only pays homage to the iconic original but also provides a platform to stimulate and elevate your memory and concentration abilities.
 
 ## Preview 🎮
 
